@@ -1,2 +1,2 @@
-# Session in JSP
+# SessionInJsp
 using Java advance code and Html
